@@ -91,7 +91,7 @@ welcome = """
     margin-bottom: 0em;
   }
   h2 {
-    font-size: 200%;
+    font-size: 300%;
     font-weight: normal;
     margin-bottom: 0em;
   }
@@ -106,7 +106,8 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1><font color=yellow>Congratulations <br><font color=black>DevOps Engineer!!!</font></h1>
+    <h1><font color=white>Congratulations <br><font color=black>DevOps Engineer!!!</font></h1>
+    <h1><font color=green>Welcome back!!!</font></h1>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform</p>
   </div>
